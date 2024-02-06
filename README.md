@@ -20,6 +20,7 @@ v1.5 2024.2.3    Selecting multiple files supported.
 v1.6 2024.2.5    Bugs fixed.
 
 v1.7 2024.2.5    Bugs fixed, Extraction of single Kanji or Kanji groups available, update log added.
+
 -----------------------------------------------------------
 
   This project is still being refined, subsequent releases will be pushed on irregular basis.
